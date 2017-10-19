@@ -22,5 +22,16 @@
 <p>App creator has been developed using the all-the-range MEAN stack (Mongo, Express, AngularJS, NodeJS). The ease of running a server using Express is so light weight and is fascinating! With all the flexibility and novelty provided by MongoDB compared to RDBMS made this a fun project to work with.</p>
 
 <div>
-	<img src="https://drive.google.com/file/d/0B_oVnhJit6grN2xnTGlPczhNMWM/view?usp=sharing" alt="Mean Stack">
+	<img src="http://evincedev.com/blog/wp-content/uploads/2017/07/Mean.jpg" alt="Mean Stack">
 </div>
+
+<h1>Author</h1>
+<p>Manasa Veena Konidena</p>
+<ul>
+  <li>https://github.com/manasa-konidena/</li>
+  <li>https://www.linkedin.com/in/manasakonidena/</li>
+</ul>
+
+
+<h1>License</h1>
+<p><a href="https://github.com/manasa-konidena/App-Creator/blob/master/LICENSE">MIT</a></p>
