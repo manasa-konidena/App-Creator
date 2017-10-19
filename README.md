@@ -16,7 +16,16 @@
 	<li>$ npm install</li>
 </ul>
 
-<p>Go to localhost://3100 on a browser of your preferences and create away!</p>
+<p>Go to localhost://3100 on a browser of your preference and create away!</p>
+<p>Once the app runs, the following notes can guide you</p>
+
+
+
+<ul>
+	<li>Login with the credentials - "manasa", "manasa" to see a sample of what can be done</li>
+	<li>Register yourself or login with your Facebool ID to be an App Creator</li>
+	<li>Several websites can be created and pages, widgets can be created for them.</li>
+</ul>
 
 <h1>Tech Stack used</h1>
 <p>App creator has been developed using the all-the-range MEAN stack (Mongo, Express, AngularJS, NodeJS). The ease of running a server using Express is so light weight and is fascinating! With all the flexibility and novelty provided by MongoDB compared to RDBMS made this a fun project to work with.</p>
