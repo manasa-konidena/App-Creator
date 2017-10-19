@@ -34,4 +34,4 @@
 
 
 <h1>License</h1>
-<p><a href="https://github.com/manasa-konidena/App-Creator/blob/master/LICENSE">MIT</a></p>
+<p><a href="https://github.com/manasa-konidena/App-Creator/blob/master/LICENSE">My License</a></p>
